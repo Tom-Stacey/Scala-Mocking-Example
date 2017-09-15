@@ -1,7 +1,7 @@
 # Test mocking example service
 
 # Aim
-Get all the tests to pass
+Fully test the MathsService
 
 # Testing
 Run 'sbt test'
